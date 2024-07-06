@@ -2,8 +2,6 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
-
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
@@ -11,16 +9,12 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
-
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
-
-/* Contacto */
 
 #Contacto form label {
   font-weight: 700;
@@ -36,4 +30,28 @@ body {
     width: 100px;
   }
 
+}
+
+.tech-section {
+  text-align: center;
+}
+
+.tech-icon {
+  font-size: 4rem;
+  margin: 1rem;
+}
+.html-icon {
+  color: #E44D26; /* Color naranja para HTML */
+}
+.css-icon {
+  color: #1572B6; /* Color azul para CSS */
+}
+.js-icon {
+  color: #F0DB4F; /* Color amarillo para JavaScript */
+}
+.python-icon {
+  color: #3776AB; /* Color azul para Python */
+}
+.java-icon {
+  color: #007396; /* Color azul para Java */
 }
