@@ -9,6 +9,13 @@ body {
   background-position: left;
 }
 
+#Tech-Section {
+  background-image: url("../img/bg-tech2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -30,6 +37,10 @@ body {
     width: 100px;
   }
 
+}
+
+.herramientas-section {
+  text-align: center;
 }
 
 .tech-section {
@@ -54,4 +65,7 @@ body {
 }
 .java-icon {
   color: #007396; /* Color azul para Java */
+}
+.azure-icon {
+  color: #0072C6; /* Color de Azure */
 }
