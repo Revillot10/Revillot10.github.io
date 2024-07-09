@@ -1,5 +1,5 @@
 GitHub Pages: https://revillot10.github.io/
 
-Primer fork a un compañero: https://github.com/DanielaCatalan93/Curriculum.git
+Primer fork: https://github.com/Revillot10/Curriculum
 
-Segundo fork a un compañero: https://github.com/DanielaCatalan93/catherinesolarte.github.io.git
+Segundo fork: https://github.com/Revillot10/catherinesolarte.github.io
